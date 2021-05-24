@@ -1,0 +1,3317 @@
+{
+    "1": {
+        "url": "https://api.boundlexx.app/api/v1/colors/1/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/1/blocks/",
+        "game_id": 1,
+        "base_color": "#1b1b1b",
+        "gleam_color": "#1b1b1b",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Black"
+            }
+        ]
+    },
+    "2": {
+        "url": "https://api.boundlexx.app/api/v1/colors/2/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/2/blocks/",
+        "game_id": 2,
+        "base_color": "#111d25",
+        "gleam_color": "#0e1d27",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Night Azure"
+            }
+        ]
+    },
+    "3": {
+        "url": "https://api.boundlexx.app/api/v1/colors/3/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/3/blocks/",
+        "game_id": 3,
+        "base_color": "#051d32",
+        "gleam_color": "#001d34",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Shadow Cerulean"
+            }
+        ]
+    },
+    "4": {
+        "url": "https://api.boundlexx.app/api/v1/colors/4/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/4/blocks/",
+        "game_id": 4,
+        "base_color": "#2e3847",
+        "gleam_color": "#2b384b",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Dark Cerulean"
+            }
+        ]
+    },
+    "5": {
+        "url": "https://api.boundlexx.app/api/v1/colors/5/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/5/blocks/",
+        "game_id": 5,
+        "base_color": "#36364d",
+        "gleam_color": "#353558",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Dark Cobalt"
+            }
+        ]
+    },
+    "6": {
+        "url": "https://api.boundlexx.app/api/v1/colors/6/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/6/blocks/",
+        "game_id": 6,
+        "base_color": "#413441",
+        "gleam_color": "#463146",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Dark Berry"
+            }
+        ]
+    },
+    "7": {
+        "url": "https://api.boundlexx.app/api/v1/colors/7/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/7/blocks/",
+        "game_id": 7,
+        "base_color": "#492f49",
+        "gleam_color": "#4e2c4e",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Dark Violet"
+            }
+        ]
+    },
+    "8": {
+        "url": "https://api.boundlexx.app/api/v1/colors/8/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/8/blocks/",
+        "game_id": 8,
+        "base_color": "#4c2a5b",
+        "gleam_color": "#502661",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Dark Lilac"
+            }
+        ]
+    },
+    "9": {
+        "url": "https://api.boundlexx.app/api/v1/colors/9/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/9/blocks/",
+        "game_id": 9,
+        "base_color": "#631063",
+        "gleam_color": "#680068",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Strong Violet"
+            }
+        ]
+    },
+    "10": {
+        "url": "https://api.boundlexx.app/api/v1/colors/10/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/10/blocks/",
+        "game_id": 10,
+        "base_color": "#5f1e4d",
+        "gleam_color": "#641750",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Strong Magenta"
+            }
+        ]
+    },
+    "11": {
+        "url": "https://api.boundlexx.app/api/v1/colors/11/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/11/blocks/",
+        "game_id": 11,
+        "base_color": "#6e0d36",
+        "gleam_color": "#720036",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Strong Fuchsia"
+            }
+        ]
+    },
+    "12": {
+        "url": "https://api.boundlexx.app/api/v1/colors/12/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/12/blocks/",
+        "game_id": 12,
+        "base_color": "#691a23",
+        "gleam_color": "#6e131f",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Strong Cherry"
+            }
+        ]
+    },
+    "13": {
+        "url": "https://api.boundlexx.app/api/v1/colors/13/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/13/blocks/",
+        "game_id": 13,
+        "base_color": "#5a2923",
+        "gleam_color": "#5e261e",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Dark Red"
+            }
+        ]
+    },
+    "14": {
+        "url": "https://api.boundlexx.app/api/v1/colors/14/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/14/blocks/",
+        "game_id": 14,
+        "base_color": "#4f3023",
+        "gleam_color": "#522f1e",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Dark Orange"
+            }
+        ]
+    },
+    "15": {
+        "url": "https://api.boundlexx.app/api/v1/colors/15/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/15/blocks/",
+        "game_id": 15,
+        "base_color": "#493232",
+        "gleam_color": "#512e2e",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Dark Rose"
+            }
+        ]
+    },
+    "16": {
+        "url": "https://api.boundlexx.app/api/v1/colors/16/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/16/blocks/",
+        "game_id": 16,
+        "base_color": "#522c37",
+        "gleam_color": "#582837",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Dark Fuchsia"
+            }
+        ]
+    },
+    "17": {
+        "url": "https://api.boundlexx.app/api/v1/colors/17/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/17/blocks/",
+        "game_id": 17,
+        "base_color": "#3c041b",
+        "gleam_color": "#3f001b",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Shadow Fuchsia"
+            }
+        ]
+    },
+    "18": {
+        "url": "https://api.boundlexx.app/api/v1/colors/18/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/18/blocks/",
+        "game_id": 18,
+        "base_color": "#2e1126",
+        "gleam_color": "#310e28",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Night Berry"
+            }
+        ]
+    },
+    "19": {
+        "url": "https://api.boundlexx.app/api/v1/colors/19/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/19/blocks/",
+        "game_id": 19,
+        "base_color": "#2b151b",
+        "gleam_color": "#2f131b",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Night Fuchsia"
+            }
+        ]
+    },
+    "20": {
+        "url": "https://api.boundlexx.app/api/v1/colors/20/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/20/blocks/",
+        "game_id": 20,
+        "base_color": "#251914",
+        "gleam_color": "#271812",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Night Orange"
+            }
+        ]
+    },
+    "21": {
+        "url": "https://api.boundlexx.app/api/v1/colors/21/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/21/blocks/",
+        "game_id": 21,
+        "base_color": "#2f1403",
+        "gleam_color": "#301300",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Shadow Orange"
+            }
+        ]
+    },
+    "22": {
+        "url": "https://api.boundlexx.app/api/v1/colors/22/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/22/blocks/",
+        "game_id": 22,
+        "base_color": "#3f0303",
+        "gleam_color": "#410000",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Shadow Red"
+            }
+        ]
+    },
+    "23": {
+        "url": "https://api.boundlexx.app/api/v1/colors/23/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/23/blocks/",
+        "game_id": 23,
+        "base_color": "#730c0c",
+        "gleam_color": "#770000",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Strong Red"
+            }
+        ]
+    },
+    "24": {
+        "url": "https://api.boundlexx.app/api/v1/colors/24/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/24/blocks/",
+        "game_id": 24,
+        "base_color": "#ab1717",
+        "gleam_color": "#b10000",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Deep Red"
+            }
+        ]
+    },
+    "25": {
+        "url": "https://api.boundlexx.app/api/v1/colors/25/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/25/blocks/",
+        "game_id": 25,
+        "base_color": "#9e2c39",
+        "gleam_color": "#a52234",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Hot Cherry"
+            }
+        ]
+    },
+    "26": {
+        "url": "https://api.boundlexx.app/api/v1/colors/26/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/26/blocks/",
+        "game_id": 26,
+        "base_color": "#834444",
+        "gleam_color": "#8c3e3e",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Silk Cherry"
+            }
+        ]
+    },
+    "27": {
+        "url": "https://api.boundlexx.app/api/v1/colors/27/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/27/blocks/",
+        "game_id": 27,
+        "base_color": "#6e4e52",
+        "gleam_color": "#794950",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Oxide Rose"
+            }
+        ]
+    },
+    "28": {
+        "url": "https://api.boundlexx.app/api/v1/colors/28/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/28/blocks/",
+        "game_id": 28,
+        "base_color": "#6e4f43",
+        "gleam_color": "#734d3d",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Silk Orange"
+            }
+        ]
+    },
+    "29": {
+        "url": "https://api.boundlexx.app/api/v1/colors/29/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/29/blocks/",
+        "game_id": 29,
+        "base_color": "#645343",
+        "gleam_color": "#67523d",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Silk Mustard"
+            }
+        ]
+    },
+    "30": {
+        "url": "https://api.boundlexx.app/api/v1/colors/30/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/30/blocks/",
+        "game_id": 30,
+        "base_color": "#754e2a",
+        "gleam_color": "#784d20",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Hot Sepia"
+            }
+        ]
+    },
+    "31": {
+        "url": "https://api.boundlexx.app/api/v1/colors/31/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/31/blocks/",
+        "game_id": 31,
+        "base_color": "#705116",
+        "gleam_color": "#725000",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Deep Mustard"
+            }
+        ]
+    },
+    "32": {
+        "url": "https://api.boundlexx.app/api/v1/colors/32/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/32/blocks/",
+        "game_id": 32,
+        "base_color": "#63552a",
+        "gleam_color": "#645520",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Hot Tan"
+            }
+        ]
+    },
+    "33": {
+        "url": "https://api.boundlexx.app/api/v1/colors/33/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/33/blocks/",
+        "game_id": 33,
+        "base_color": "#585838",
+        "gleam_color": "#585831",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Silk Yellow"
+            }
+        ]
+    },
+    "34": {
+        "url": "https://api.boundlexx.app/api/v1/colors/34/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/34/blocks/",
+        "game_id": 34,
+        "base_color": "#595916",
+        "gleam_color": "#595900",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Deep Yellow"
+            }
+        ]
+    },
+    "35": {
+        "url": "https://api.boundlexx.app/api/v1/colors/35/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/35/blocks/",
+        "game_id": 35,
+        "base_color": "#405f2a",
+        "gleam_color": "#3d6020",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Hot Moss"
+            }
+        ]
+    },
+    "36": {
+        "url": "https://api.boundlexx.app/api/v1/colors/36/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/36/blocks/",
+        "game_id": 36,
+        "base_color": "#166416",
+        "gleam_color": "#006500",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Deep Green"
+            }
+        ]
+    },
+    "37": {
+        "url": "https://api.boundlexx.app/api/v1/colors/37/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/37/blocks/",
+        "game_id": 37,
+        "base_color": "#0b410b",
+        "gleam_color": "#004200",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Strong Green"
+            }
+        ]
+    },
+    "38": {
+        "url": "https://api.boundlexx.app/api/v1/colors/38/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/38/blocks/",
+        "game_id": 38,
+        "base_color": "#2c3c22",
+        "gleam_color": "#2a3d1d",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Dark Green"
+            }
+        ]
+    },
+    "39": {
+        "url": "https://api.boundlexx.app/api/v1/colors/39/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/39/blocks/",
+        "game_id": 39,
+        "base_color": "#393922",
+        "gleam_color": "#39391d",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Dark Yellow"
+            }
+        ]
+    },
+    "40": {
+        "url": "https://api.boundlexx.app/api/v1/colors/40/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/40/blocks/",
+        "game_id": 40,
+        "base_color": "#3a3a0b",
+        "gleam_color": "#3a3a00",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Strong Yellow"
+            }
+        ]
+    },
+    "41": {
+        "url": "https://api.boundlexx.app/api/v1/colors/41/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/41/blocks/",
+        "game_id": 41,
+        "base_color": "#49340b",
+        "gleam_color": "#4a3400",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Strong Mustard"
+            }
+        ]
+    },
+    "42": {
+        "url": "https://api.boundlexx.app/api/v1/colors/42/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/42/blocks/",
+        "game_id": 42,
+        "base_color": "#413623",
+        "gleam_color": "#42361e",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Dark Mustard"
+            }
+        ]
+    },
+    "43": {
+        "url": "https://api.boundlexx.app/api/v1/colors/43/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/43/blocks/",
+        "game_id": 43,
+        "base_color": "#241a03",
+        "gleam_color": "#251a00",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Shadow Mustard"
+            }
+        ]
+    },
+    "44": {
+        "url": "https://api.boundlexx.app/api/v1/colors/44/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/44/blocks/",
+        "game_id": 44,
+        "base_color": "#1d1d03",
+        "gleam_color": "#1d1d00",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Shadow Yellow"
+            }
+        ]
+    },
+    "45": {
+        "url": "https://api.boundlexx.app/api/v1/colors/45/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/45/blocks/",
+        "game_id": 45,
+        "base_color": "#131e13",
+        "gleam_color": "#101f10",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Night Green"
+            }
+        ]
+    },
+    "46": {
+        "url": "https://api.boundlexx.app/api/v1/colors/46/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/46/blocks/",
+        "game_id": 46,
+        "base_color": "#041f1f",
+        "gleam_color": "#001f1f",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Shadow Turquoise"
+            }
+        ]
+    },
+    "47": {
+        "url": "https://api.boundlexx.app/api/v1/colors/47/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/47/blocks/",
+        "game_id": 47,
+        "base_color": "#2c3a3a",
+        "gleam_color": "#283b3b",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Dark Turquoise"
+            }
+        ]
+    },
+    "48": {
+        "url": "https://api.boundlexx.app/api/v1/colors/48/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/48/blocks/",
+        "game_id": 48,
+        "base_color": "#3e3e3e",
+        "gleam_color": "#3e3e3e",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Dark Grey"
+            }
+        ]
+    },
+    "49": {
+        "url": "https://api.boundlexx.app/api/v1/colors/49/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/49/blocks/",
+        "game_id": 49,
+        "base_color": "#4f575d",
+        "gleam_color": "#4b5861",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Oxide Azure"
+            }
+        ]
+    },
+    "50": {
+        "url": "https://api.boundlexx.app/api/v1/colors/50/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/50/blocks/",
+        "game_id": 50,
+        "base_color": "#636363",
+        "gleam_color": "#636363",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Oxide Grey"
+            }
+        ]
+    },
+    "51": {
+        "url": "https://api.boundlexx.app/api/v1/colors/51/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/51/blocks/",
+        "game_id": 51,
+        "base_color": "#57574d",
+        "gleam_color": "#575748",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Oxide Yellow"
+            }
+        ]
+    },
+    "52": {
+        "url": "https://api.boundlexx.app/api/v1/colors/52/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/52/blocks/",
+        "game_id": 52,
+        "base_color": "#4d5a4d",
+        "gleam_color": "#475c47",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Oxide Green"
+            }
+        ]
+    },
+    "53": {
+        "url": "https://api.boundlexx.app/api/v1/colors/53/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/53/blocks/",
+        "game_id": 53,
+        "base_color": "#435d43",
+        "gleam_color": "#3d5f3d",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Silk Mint"
+            }
+        ]
+    },
+    "54": {
+        "url": "https://api.boundlexx.app/api/v1/colors/54/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/54/blocks/",
+        "game_id": 54,
+        "base_color": "#3a5d53",
+        "gleam_color": "#335e52",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Silk Teal"
+            }
+        ]
+    },
+    "55": {
+        "url": "https://api.boundlexx.app/api/v1/colors/55/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/55/blocks/",
+        "game_id": 55,
+        "base_color": "#196060",
+        "gleam_color": "#006161",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Deep Turquoise"
+            }
+        ]
+    },
+    "56": {
+        "url": "https://api.boundlexx.app/api/v1/colors/56/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/56/blocks/",
+        "game_id": 56,
+        "base_color": "#1a5e6e",
+        "gleam_color": "#005f71",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Deep Slate"
+            }
+        ]
+    },
+    "57": {
+        "url": "https://api.boundlexx.app/api/v1/colors/57/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/57/blocks/",
+        "game_id": 57,
+        "base_color": "#1b5c7d",
+        "gleam_color": "#005d81",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Deep Azure"
+            }
+        ]
+    },
+    "58": {
+        "url": "https://api.boundlexx.app/api/v1/colors/58/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/58/blocks/",
+        "game_id": 58,
+        "base_color": "#1e579a",
+        "gleam_color": "#0057a2",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Deep Cerulean"
+            }
+        ]
+    },
+    "59": {
+        "url": "https://api.boundlexx.app/api/v1/colors/59/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/59/blocks/",
+        "game_id": 59,
+        "base_color": "#43538f",
+        "gleam_color": "#3d5299",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Silk Cobalt"
+            }
+        ]
+    },
+    "60": {
+        "url": "https://api.boundlexx.app/api/v1/colors/60/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/60/blocks/",
+        "game_id": 60,
+        "base_color": "#49576f",
+        "gleam_color": "#445776",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Silk Cerulean"
+            }
+        ]
+    },
+    "61": {
+        "url": "https://api.boundlexx.app/api/v1/colors/61/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/61/blocks/",
+        "game_id": 61,
+        "base_color": "#545472",
+        "gleam_color": "#525280",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Oxide Blue"
+            }
+        ]
+    },
+    "62": {
+        "url": "https://api.boundlexx.app/api/v1/colors/62/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/62/blocks/",
+        "game_id": 62,
+        "base_color": "#635063",
+        "gleam_color": "#6a4c6a",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Oxide Violet"
+            }
+        ]
+    },
+    "63": {
+        "url": "https://api.boundlexx.app/api/v1/colors/63/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/63/blocks/",
+        "game_id": 63,
+        "base_color": "#6f496f",
+        "gleam_color": "#764476",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Silk Berry"
+            }
+        ]
+    },
+    "64": {
+        "url": "https://api.boundlexx.app/api/v1/colors/64/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/64/blocks/",
+        "game_id": 64,
+        "base_color": "#734288",
+        "gleam_color": "#793c91",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Silk Lilac"
+            }
+        ]
+    },
+    "65": {
+        "url": "https://api.boundlexx.app/api/v1/colors/65/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/65/blocks/",
+        "game_id": 65,
+        "base_color": "#5d46a2",
+        "gleam_color": "#5f40b1",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Silk Lavender"
+            }
+        ]
+    },
+    "66": {
+        "url": "https://api.boundlexx.app/api/v1/colors/66/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/66/blocks/",
+        "game_id": 66,
+        "base_color": "#6d25d5",
+        "gleam_color": "#7201e8",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Deep Lavender"
+            }
+        ]
+    },
+    "67": {
+        "url": "https://api.boundlexx.app/api/v1/colors/67/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/67/blocks/",
+        "game_id": 67,
+        "base_color": "#8621b3",
+        "gleam_color": "#8d00bf",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Deep Lilac"
+            }
+        ]
+    },
+    "68": {
+        "url": "https://api.boundlexx.app/api/v1/colors/68/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/68/blocks/",
+        "game_id": 68,
+        "base_color": "#941e94",
+        "gleam_color": "#9b019b",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Deep Violet"
+            }
+        ]
+    },
+    "69": {
+        "url": "https://api.boundlexx.app/api/v1/colors/69/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/69/blocks/",
+        "game_id": 69,
+        "base_color": "#8f3176",
+        "gleam_color": "#96277a",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Hot Magenta"
+            }
+        ]
+    },
+    "70": {
+        "url": "https://api.boundlexx.app/api/v1/colors/70/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/70/blocks/",
+        "game_id": 70,
+        "base_color": "#883c61",
+        "gleam_color": "#8f3563",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Silk Magenta"
+            }
+        ]
+    },
+    "71": {
+        "url": "https://api.boundlexx.app/api/v1/colors/71/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/71/blocks/",
+        "game_id": 71,
+        "base_color": "#a51954",
+        "gleam_color": "#ab0054",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Deep Fuchsia"
+            }
+        ]
+    },
+    "72": {
+        "url": "https://api.boundlexx.app/api/v1/colors/72/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/72/blocks/",
+        "game_id": 72,
+        "base_color": "#be5375",
+        "gleam_color": "#c84a75",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Warm Fuchsia"
+            }
+        ]
+    },
+    "73": {
+        "url": "https://api.boundlexx.app/api/v1/colors/73/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/73/blocks/",
+        "game_id": 73,
+        "base_color": "#ca438a",
+        "gleam_color": "#d3368d",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Warm Magenta"
+            }
+        ]
+    },
+    "74": {
+        "url": "https://api.boundlexx.app/api/v1/colors/74/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/74/blocks/",
+        "game_id": 74,
+        "base_color": "#e02674",
+        "gleam_color": "#e80174",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Fuchsia"
+            }
+        ]
+    },
+    "75": {
+        "url": "https://api.boundlexx.app/api/v1/colors/75/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/75/blocks/",
+        "game_id": 75,
+        "base_color": "#e3245a",
+        "gleam_color": "#eb0056",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Rose"
+            }
+        ]
+    },
+    "76": {
+        "url": "https://api.boundlexx.app/api/v1/colors/76/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/76/blocks/",
+        "game_id": 76,
+        "base_color": "#c5515c",
+        "gleam_color": "#cf4856",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Warm Cherry"
+            }
+        ]
+    },
+    "77": {
+        "url": "https://api.boundlexx.app/api/v1/colors/77/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/77/blocks/",
+        "game_id": 77,
+        "base_color": "#e62340",
+        "gleam_color": "#ee0037",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Cherry"
+            }
+        ]
+    },
+    "78": {
+        "url": "https://api.boundlexx.app/api/v1/colors/78/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/78/blocks/",
+        "game_id": 78,
+        "base_color": "#e82323",
+        "gleam_color": "#f00000",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Red"
+            }
+        ]
+    },
+    "79": {
+        "url": "https://api.boundlexx.app/api/v1/colors/79/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/79/blocks/",
+        "game_id": 79,
+        "base_color": "#c8513d",
+        "gleam_color": "#cf4b30",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Warm Red"
+            }
+        ]
+    },
+    "80": {
+        "url": "https://api.boundlexx.app/api/v1/colors/80/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/80/blocks/",
+        "game_id": 80,
+        "base_color": "#a8655e",
+        "gleam_color": "#b26056",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Stale Red"
+            }
+        ]
+    },
+    "81": {
+        "url": "https://api.boundlexx.app/api/v1/colors/81/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/81/blocks/",
+        "game_id": 81,
+        "base_color": "#a3694f",
+        "gleam_color": "#a96645",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Warm Orange"
+            }
+        ]
+    },
+    "82": {
+        "url": "https://api.boundlexx.app/api/v1/colors/82/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/82/blocks/",
+        "game_id": 82,
+        "base_color": "#90715e",
+        "gleam_color": "#966f56",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Stale Sepia"
+            }
+        ]
+    },
+    "83": {
+        "url": "https://api.boundlexx.app/api/v1/colors/83/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/83/blocks/",
+        "game_id": 83,
+        "base_color": "#8d734f",
+        "gleam_color": "#907245",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Warm Mustard"
+            }
+        ]
+    },
+    "84": {
+        "url": "https://api.boundlexx.app/api/v1/colors/84/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/84/blocks/",
+        "game_id": 84,
+        "base_color": "#7f775e",
+        "gleam_color": "#817756",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Stale Tan"
+            }
+        ]
+    },
+    "85": {
+        "url": "https://api.boundlexx.app/api/v1/colors/85/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/85/blocks/",
+        "game_id": 85,
+        "base_color": "#79794f",
+        "gleam_color": "#797946",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Warm Yellow"
+            }
+        ]
+    },
+    "86": {
+        "url": "https://api.boundlexx.app/api/v1/colors/86/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/86/blocks/",
+        "game_id": 86,
+        "base_color": "#697d5d",
+        "gleam_color": "#657e55",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Stale Moss"
+            }
+        ]
+    },
+    "87": {
+        "url": "https://api.boundlexx.app/api/v1/colors/87/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/87/blocks/",
+        "game_id": 87,
+        "base_color": "#51816b",
+        "gleam_color": "#488369",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Warm Viridian"
+            }
+        ]
+    },
+    "88": {
+        "url": "https://api.boundlexx.app/api/v1/colors/88/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/88/blocks/",
+        "game_id": 88,
+        "base_color": "#258575",
+        "gleam_color": "#018675",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Teal"
+            }
+        ]
+    },
+    "89": {
+        "url": "https://api.boundlexx.app/api/v1/colors/89/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/89/blocks/",
+        "game_id": 89,
+        "base_color": "#248662",
+        "gleam_color": "#028760",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Viridian"
+            }
+        ]
+    },
+    "90": {
+        "url": "https://api.boundlexx.app/api/v1/colors/90/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/90/blocks/",
+        "game_id": 90,
+        "base_color": "#228849",
+        "gleam_color": "#008943",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Mint"
+            }
+        ]
+    },
+    "91": {
+        "url": "https://api.boundlexx.app/api/v1/colors/91/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/91/blocks/",
+        "game_id": 91,
+        "base_color": "#228921",
+        "gleam_color": "#038b00",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Green"
+            }
+        ]
+    },
+    "92": {
+        "url": "https://api.boundlexx.app/api/v1/colors/92/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/92/blocks/",
+        "game_id": 92,
+        "base_color": "#5a823c",
+        "gleam_color": "#56832f",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Warm Moss"
+            }
+        ]
+    },
+    "93": {
+        "url": "https://api.boundlexx.app/api/v1/colors/93/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/93/blocks/",
+        "game_id": 93,
+        "base_color": "#7b7b22",
+        "gleam_color": "#7b7b00",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Yellow"
+            }
+        ]
+    },
+    "94": {
+        "url": "https://api.boundlexx.app/api/v1/colors/94/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/94/blocks/",
+        "game_id": 94,
+        "base_color": "#8b7522",
+        "gleam_color": "#8d7500",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Tan"
+            }
+        ]
+    },
+    "95": {
+        "url": "https://api.boundlexx.app/api/v1/colors/95/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/95/blocks/",
+        "game_id": 95,
+        "base_color": "#997022",
+        "gleam_color": "#9c6f00",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Mustard"
+            }
+        ]
+    },
+    "96": {
+        "url": "https://api.boundlexx.app/api/v1/colors/96/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/96/blocks/",
+        "game_id": 96,
+        "base_color": "#a86922",
+        "gleam_color": "#ac6800",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Sepia"
+            }
+        ]
+    },
+    "97": {
+        "url": "https://api.boundlexx.app/api/v1/colors/97/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/97/blocks/",
+        "game_id": 97,
+        "base_color": "#b75f22",
+        "gleam_color": "#bc5c00",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Orange"
+            }
+        ]
+    },
+    "98": {
+        "url": "https://api.boundlexx.app/api/v1/colors/98/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/98/blocks/",
+        "game_id": 98,
+        "base_color": "#ea7b2f",
+        "gleam_color": "#f07801",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Vivid Orange"
+            }
+        ]
+    },
+    "99": {
+        "url": "https://api.boundlexx.app/api/v1/colors/99/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/99/blocks/",
+        "game_id": 99,
+        "base_color": "#d08950",
+        "gleam_color": "#d68740",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Light Sepia"
+            }
+        ]
+    },
+    "100": {
+        "url": "https://api.boundlexx.app/api/v1/colors/100/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/100/blocks/",
+        "game_id": 100,
+        "base_color": "#d18767",
+        "gleam_color": "#d9845b",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Light Orange"
+            }
+        ]
+    },
+    "101": {
+        "url": "https://api.boundlexx.app/api/v1/colors/101/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/101/blocks/",
+        "game_id": 101,
+        "base_color": "#b8917a",
+        "gleam_color": "#bf8f70",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Pale Sepia"
+            }
+        ]
+    },
+    "102": {
+        "url": "https://api.boundlexx.app/api/v1/colors/102/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/102/blocks/",
+        "game_id": 102,
+        "base_color": "#a6978a",
+        "gleam_color": "#ac9681",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Ashen Taupe"
+            }
+        ]
+    },
+    "103": {
+        "url": "https://api.boundlexx.app/api/v1/colors/103/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/103/blocks/",
+        "game_id": 103,
+        "base_color": "#9a9a8a",
+        "gleam_color": "#9b9b81",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Ashen Yellow"
+            }
+        ]
+    },
+    "104": {
+        "url": "https://api.boundlexx.app/api/v1/colors/104/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/104/blocks/",
+        "game_id": 104,
+        "base_color": "#a39979",
+        "gleam_color": "#a5996f",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Pale Tan"
+            }
+        ]
+    },
+    "105": {
+        "url": "https://api.boundlexx.app/api/v1/colors/105/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/105/blocks/",
+        "game_id": 105,
+        "base_color": "#b19667",
+        "gleam_color": "#b5955b",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Light Mustard"
+            }
+        ]
+    },
+    "106": {
+        "url": "https://api.boundlexx.app/api/v1/colors/106/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/106/blocks/",
+        "game_id": 106,
+        "base_color": "#ab9950",
+        "gleam_color": "#ad9940",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Light Tan"
+            }
+        ]
+    },
+    "107": {
+        "url": "https://api.boundlexx.app/api/v1/colors/107/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/107/blocks/",
+        "game_id": 107,
+        "base_color": "#9c9c66",
+        "gleam_color": "#9d9d5a",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Light Yellow"
+            }
+        ]
+    },
+    "108": {
+        "url": "https://api.boundlexx.app/api/v1/colors/108/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/108/blocks/",
+        "game_id": 108,
+        "base_color": "#88a179",
+        "gleam_color": "#83a36f",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Pale Moss"
+            }
+        ]
+    },
+    "109": {
+        "url": "https://api.boundlexx.app/api/v1/colors/109/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/109/blocks/",
+        "game_id": 109,
+        "base_color": "#8b9e90",
+        "gleam_color": "#82a18b",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Ashen Mint"
+            }
+        ]
+    },
+    "110": {
+        "url": "https://api.boundlexx.app/api/v1/colors/110/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/110/blocks/",
+        "game_id": 110,
+        "base_color": "#8c9d9d",
+        "gleam_color": "#849f9f",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Ashen Turquoise"
+            }
+        ]
+    },
+    "111": {
+        "url": "https://api.boundlexx.app/api/v1/colors/111/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/111/blocks/",
+        "game_id": 111,
+        "base_color": "#8b8b8b",
+        "gleam_color": "#8b8b8b",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Ashen Grey"
+            }
+        ]
+    },
+    "112": {
+        "url": "https://api.boundlexx.app/api/v1/colors/112/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/112/blocks/",
+        "game_id": 112,
+        "base_color": "#6d797e",
+        "gleam_color": "#677a82",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Rust Slate"
+            }
+        ]
+    },
+    "113": {
+        "url": "https://api.boundlexx.app/api/v1/colors/113/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/113/blocks/",
+        "game_id": 113,
+        "base_color": "#617c7c",
+        "gleam_color": "#5a7d7d",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Stale Turquoise"
+            }
+        ]
+    },
+    "114": {
+        "url": "https://api.boundlexx.app/api/v1/colors/114/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/114/blocks/",
+        "game_id": 114,
+        "base_color": "#74796b",
+        "gleam_color": "#727a64",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Rust Lime"
+            }
+        ]
+    },
+    "115": {
+        "url": "https://api.boundlexx.app/api/v1/colors/115/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/115/blocks/",
+        "game_id": 115,
+        "base_color": "#81756b",
+        "gleam_color": "#867464",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Rust Taupe"
+            }
+        ]
+    },
+    "116": {
+        "url": "https://api.boundlexx.app/api/v1/colors/116/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/116/blocks/",
+        "game_id": 116,
+        "base_color": "#936d76",
+        "gleam_color": "#a06775",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Rust Fuchsia"
+            }
+        ]
+    },
+    "117": {
+        "url": "https://api.boundlexx.app/api/v1/colors/117/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/117/blocks/",
+        "game_id": 117,
+        "base_color": "#886f88",
+        "gleam_color": "#916a91",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Rust Violet"
+            }
+        ]
+    },
+    "118": {
+        "url": "https://api.boundlexx.app/api/v1/colors/118/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/118/blocks/",
+        "game_id": 118,
+        "base_color": "#9f648d",
+        "gleam_color": "#a95d93",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Stale Berry"
+            }
+        ]
+    },
+    "119": {
+        "url": "https://api.boundlexx.app/api/v1/colors/119/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/119/blocks/",
+        "game_id": 119,
+        "base_color": "#a859a8",
+        "gleam_color": "#b150b1",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Warm Violet"
+            }
+        ]
+    },
+    "120": {
+        "url": "https://api.boundlexx.app/api/v1/colors/120/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/120/blocks/",
+        "game_id": 120,
+        "base_color": "#8f68a6",
+        "gleam_color": "#9662b3",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Stale Lilac"
+            }
+        ]
+    },
+    "121": {
+        "url": "https://api.boundlexx.app/api/v1/colors/121/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/121/blocks/",
+        "game_id": 121,
+        "base_color": "#6f6fbf",
+        "gleam_color": "#6d6dcc",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Warm Blue"
+            }
+        ]
+    },
+    "122": {
+        "url": "https://api.boundlexx.app/api/v1/colors/122/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/122/blocks/",
+        "game_id": 122,
+        "base_color": "#6565f0",
+        "gleam_color": "#6161ff",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Blue"
+            }
+        ]
+    },
+    "123": {
+        "url": "https://api.boundlexx.app/api/v1/colors/123/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/123/blocks/",
+        "game_id": 123,
+        "base_color": "#8b56f0",
+        "gleam_color": "#8e4eff",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Lavender"
+            }
+        ]
+    },
+    "124": {
+        "url": "https://api.boundlexx.app/api/v1/colors/124/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/124/blocks/",
+        "game_id": 124,
+        "base_color": "#b236f0",
+        "gleam_color": "#bb18ff",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Lilac"
+            }
+        ]
+    },
+    "125": {
+        "url": "https://api.boundlexx.app/api/v1/colors/125/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/125/blocks/",
+        "game_id": 125,
+        "base_color": "#c92cc9",
+        "gleam_color": "#d200d2",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Violet"
+            }
+        ]
+    },
+    "126": {
+        "url": "https://api.boundlexx.app/api/v1/colors/126/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/126/blocks/",
+        "game_id": 126,
+        "base_color": "#f552f5",
+        "gleam_color": "#ff3fff",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Vivid Violet"
+            }
+        ]
+    },
+    "127": {
+        "url": "https://api.boundlexx.app/api/v1/colors/127/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/127/blocks/",
+        "game_id": 127,
+        "base_color": "#cc74f5",
+        "gleam_color": "#d26dff",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Vivid Lilac"
+            }
+        ]
+    },
+    "128": {
+        "url": "https://api.boundlexx.app/api/v1/colors/128/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/128/blocks/",
+        "game_id": 128,
+        "base_color": "#ac85f5",
+        "gleam_color": "#ae82ff",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Vivid Lavender"
+            }
+        ]
+    },
+    "129": {
+        "url": "https://api.boundlexx.app/api/v1/colors/129/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/129/blocks/",
+        "game_id": 129,
+        "base_color": "#8f8ff5",
+        "gleam_color": "#8d8dff",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Vivid Blue"
+            }
+        ]
+    },
+    "130": {
+        "url": "https://api.boundlexx.app/api/v1/colors/130/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/130/blocks/",
+        "game_id": 130,
+        "base_color": "#9494d1",
+        "gleam_color": "#9393db",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Light Blue"
+            }
+        ]
+    },
+    "131": {
+        "url": "https://api.boundlexx.app/api/v1/colors/131/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/131/blocks/",
+        "game_id": 131,
+        "base_color": "#a890bf",
+        "gleam_color": "#ac8dc9",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Pale Lilac"
+            }
+        ]
+    },
+    "132": {
+        "url": "https://api.boundlexx.app/api/v1/colors/132/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/132/blocks/",
+        "game_id": 132,
+        "base_color": "#b986d1",
+        "gleam_color": "#bf81db",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Light Lilac"
+            }
+        ]
+    },
+    "133": {
+        "url": "https://api.boundlexx.app/api/v1/colors/133/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/133/blocks/",
+        "game_id": 133,
+        "base_color": "#c187b1",
+        "gleam_color": "#cb81b8",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Pale Berry"
+            }
+        ]
+    },
+    "134": {
+        "url": "https://api.boundlexx.app/api/v1/colors/134/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/134/blocks/",
+        "game_id": 134,
+        "base_color": "#ae91a5",
+        "gleam_color": "#b98cab",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Ashen Berry"
+            }
+        ]
+    },
+    "135": {
+        "url": "https://api.boundlexx.app/api/v1/colors/135/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/135/blocks/",
+        "game_id": 135,
+        "base_color": "#b39191",
+        "gleam_color": "#bf8c8c",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Ashen Red"
+            }
+        ]
+    },
+    "136": {
+        "url": "https://api.boundlexx.app/api/v1/colors/136/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/136/blocks/",
+        "game_id": 136,
+        "base_color": "#d8b5b5",
+        "gleam_color": "#dfb3b3",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Cool Red"
+            }
+        ]
+    },
+    "137": {
+        "url": "https://api.boundlexx.app/api/v1/colors/137/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/137/blocks/",
+        "game_id": 137,
+        "base_color": "#e5b2a0",
+        "gleam_color": "#ebb09a",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Stark Orange"
+            }
+        ]
+    },
+    "138": {
+        "url": "https://api.boundlexx.app/api/v1/colors/138/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/138/blocks/",
+        "game_id": 138,
+        "base_color": "#faaa8a",
+        "gleam_color": "#ffa884",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Bright Orange"
+            }
+        ]
+    },
+    "139": {
+        "url": "https://api.boundlexx.app/api/v1/colors/139/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/139/blocks/",
+        "game_id": 139,
+        "base_color": "#faac71",
+        "gleam_color": "#ffaa65",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Bright Sepia"
+            }
+        ]
+    },
+    "140": {
+        "url": "https://api.boundlexx.app/api/v1/colors/140/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/140/blocks/",
+        "game_id": 140,
+        "base_color": "#faae4e",
+        "gleam_color": "#ffac34",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Bright Taupe"
+            }
+        ]
+    },
+    "141": {
+        "url": "https://api.boundlexx.app/api/v1/colors/141/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/141/blocks/",
+        "game_id": 141,
+        "base_color": "#ecb43b",
+        "gleam_color": "#f0b300",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Bright Mustard"
+            }
+        ]
+    },
+    "142": {
+        "url": "https://api.boundlexx.app/api/v1/colors/142/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/142/blocks/",
+        "game_id": 142,
+        "base_color": "#d9bc3b",
+        "gleam_color": "#dbbc00",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Bright Tan"
+            }
+        ]
+    },
+    "143": {
+        "url": "https://api.boundlexx.app/api/v1/colors/143/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/143/blocks/",
+        "game_id": 143,
+        "base_color": "#c3c33b",
+        "gleam_color": "#c4c400",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Bright Yellow"
+            }
+        ]
+    },
+    "144": {
+        "url": "https://api.boundlexx.app/api/v1/colors/144/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/144/blocks/",
+        "game_id": 144,
+        "base_color": "#aaca3b",
+        "gleam_color": "#a8cb00",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Bright Lime"
+            }
+        ]
+    },
+    "145": {
+        "url": "https://api.boundlexx.app/api/v1/colors/145/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/145/blocks/",
+        "game_id": 145,
+        "base_color": "#85d13b",
+        "gleam_color": "#7ed301",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Bright Moss"
+            }
+        ]
+    },
+    "146": {
+        "url": "https://api.boundlexx.app/api/v1/colors/146/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/146/blocks/",
+        "game_id": 146,
+        "base_color": "#3bd93b",
+        "gleam_color": "#02db02",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Bright Green"
+            }
+        ]
+    },
+    "147": {
+        "url": "https://api.boundlexx.app/api/v1/colors/147/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/147/blocks/",
+        "game_id": 147,
+        "base_color": "#7fd07f",
+        "gleam_color": "#70d370",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Stark Green"
+            }
+        ]
+    },
+    "148": {
+        "url": "https://api.boundlexx.app/api/v1/colors/148/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/148/blocks/",
+        "game_id": 148,
+        "base_color": "#3dd692",
+        "gleam_color": "#00d88d",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Bright Viridian"
+            }
+        ]
+    },
+    "149": {
+        "url": "https://api.boundlexx.app/api/v1/colors/149/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/149/blocks/",
+        "game_id": 149,
+        "base_color": "#68d0b0",
+        "gleam_color": "#54d2ae",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Stark Viridian"
+            }
+        ]
+    },
+    "150": {
+        "url": "https://api.boundlexx.app/api/v1/colors/150/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/150/blocks/",
+        "game_id": 150,
+        "base_color": "#97c9a3",
+        "gleam_color": "#8bcc9b",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Cool Mint"
+            }
+        ]
+    },
+    "151": {
+        "url": "https://api.boundlexx.app/api/v1/colors/151/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/151/blocks/",
+        "game_id": 151,
+        "base_color": "#9ac7b7",
+        "gleam_color": "#8ecab5",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Cool Teal"
+            }
+        ]
+    },
+    "152": {
+        "url": "https://api.boundlexx.app/api/v1/colors/152/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/152/blocks/",
+        "game_id": 152,
+        "base_color": "#86c9c9",
+        "gleam_color": "#78cbcb",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Stark Turquoise"
+            }
+        ]
+    },
+    "153": {
+        "url": "https://api.boundlexx.app/api/v1/colors/153/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/153/blocks/",
+        "game_id": 153,
+        "base_color": "#41d0d0",
+        "gleam_color": "#03d2d2",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Bright Turquoise"
+            }
+        ]
+    },
+    "154": {
+        "url": "https://api.boundlexx.app/api/v1/colors/154/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/154/blocks/",
+        "game_id": 154,
+        "base_color": "#42cee4",
+        "gleam_color": "#00d0e8",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Bright Slate"
+            }
+        ]
+    },
+    "155": {
+        "url": "https://api.boundlexx.app/api/v1/colors/155/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/155/blocks/",
+        "game_id": 155,
+        "base_color": "#4fcbf9",
+        "gleam_color": "#2ccdff",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Bright Azure"
+            }
+        ]
+    },
+    "156": {
+        "url": "https://api.boundlexx.app/api/v1/colors/156/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/156/blocks/",
+        "game_id": 156,
+        "base_color": "#82c4f9",
+        "gleam_color": "#78c5ff",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Stark Azure"
+            }
+        ]
+    },
+    "157": {
+        "url": "https://api.boundlexx.app/api/v1/colors/157/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/157/blocks/",
+        "game_id": 157,
+        "base_color": "#9fbef9",
+        "gleam_color": "#9bbeff",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Bright Cerulean"
+            }
+        ]
+    },
+    "158": {
+        "url": "https://api.boundlexx.app/api/v1/colors/158/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/158/blocks/",
+        "game_id": 158,
+        "base_color": "#b7b7f9",
+        "gleam_color": "#b6b6ff",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Bright Blue"
+            }
+        ]
+    },
+    "159": {
+        "url": "https://api.boundlexx.app/api/v1/colors/159/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/159/blocks/",
+        "game_id": 159,
+        "base_color": "#c5b7e2",
+        "gleam_color": "#c6b6e8",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Stark Lavender"
+            }
+        ]
+    },
+    "160": {
+        "url": "https://api.boundlexx.app/api/v1/colors/160/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/160/blocks/",
+        "game_id": 160,
+        "base_color": "#bbbbd6",
+        "gleam_color": "#babadd",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Cool Blue"
+            }
+        ]
+    },
+    "161": {
+        "url": "https://api.boundlexx.app/api/v1/colors/161/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/161/blocks/",
+        "game_id": 161,
+        "base_color": "#cab8ca",
+        "gleam_color": "#d1b5d1",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Weary Violet"
+            }
+        ]
+    },
+    "162": {
+        "url": "https://api.boundlexx.app/api/v1/colors/162/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/162/blocks/",
+        "game_id": 162,
+        "base_color": "#d6b2d6",
+        "gleam_color": "#ddafdd",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Cool Violet"
+            }
+        ]
+    },
+    "163": {
+        "url": "https://api.boundlexx.app/api/v1/colors/163/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/163/blocks/",
+        "game_id": 163,
+        "base_color": "#d9aeed",
+        "gleam_color": "#ddabf3",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Bright Lilac"
+            }
+        ]
+    },
+    "164": {
+        "url": "https://api.boundlexx.app/api/v1/colors/164/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/164/blocks/",
+        "game_id": 164,
+        "base_color": "#eea7db",
+        "gleam_color": "#f4a3df",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Bright Magenta"
+            }
+        ]
+    },
+    "165": {
+        "url": "https://api.boundlexx.app/api/v1/colors/165/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/165/blocks/",
+        "game_id": 165,
+        "base_color": "#f99df9",
+        "gleam_color": "#ff98ff",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Bright Violet"
+            }
+        ]
+    },
+    "166": {
+        "url": "https://api.boundlexx.app/api/v1/colors/166/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/166/blocks/",
+        "game_id": 166,
+        "base_color": "#e56fc5",
+        "gleam_color": "#ee66cb",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Light Berry"
+            }
+        ]
+    },
+    "167": {
+        "url": "https://api.boundlexx.app/api/v1/colors/167/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/167/blocks/",
+        "game_id": 167,
+        "base_color": "#f76897",
+        "gleam_color": "#ff6097",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Vivid Fuchsia"
+            }
+        ]
+    },
+    "168": {
+        "url": "https://api.boundlexx.app/api/v1/colors/168/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/168/blocks/",
+        "game_id": 168,
+        "base_color": "#d87f98",
+        "gleam_color": "#e17998",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Light Fuchsia"
+            }
+        ]
+    },
+    "169": {
+        "url": "https://api.boundlexx.app/api/v1/colors/169/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/169/blocks/",
+        "game_id": 169,
+        "base_color": "#da8181",
+        "gleam_color": "#e37c7c",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Light Red"
+            }
+        ]
+    },
+    "170": {
+        "url": "https://api.boundlexx.app/api/v1/colors/170/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/170/blocks/",
+        "game_id": 170,
+        "base_color": "#f86d6d",
+        "gleam_color": "#ff6767",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Vivid Cherry"
+            }
+        ]
+    },
+    "171": {
+        "url": "https://api.boundlexx.app/api/v1/colors/171/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/171/blocks/",
+        "game_id": 171,
+        "base_color": "#f86f57",
+        "gleam_color": "#ff6a4c",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Vivid Red"
+            }
+        ]
+    },
+    "172": {
+        "url": "https://api.boundlexx.app/api/v1/colors/172/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/172/blocks/",
+        "game_id": 172,
+        "base_color": "#faa8a8",
+        "gleam_color": "#ffa6a6",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Bright Red"
+            }
+        ]
+    },
+    "173": {
+        "url": "https://api.boundlexx.app/api/v1/colors/173/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/173/blocks/",
+        "game_id": 173,
+        "base_color": "#f9a6bc",
+        "gleam_color": "#ffa3bc",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Bright Fuchsia"
+            }
+        ]
+    },
+    "174": {
+        "url": "https://api.boundlexx.app/api/v1/colors/174/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/174/blocks/",
+        "game_id": 174,
+        "base_color": "#fcd7fc",
+        "gleam_color": "#ffd6ff",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Luminous Violet"
+            }
+        ]
+    },
+    "175": {
+        "url": "https://api.boundlexx.app/api/v1/colors/175/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/175/blocks/",
+        "game_id": 175,
+        "base_color": "#eddeed",
+        "gleam_color": "#f0ddf0",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Cold Berry"
+            }
+        ]
+    },
+    "176": {
+        "url": "https://api.boundlexx.app/api/v1/colors/176/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/176/blocks/",
+        "game_id": 176,
+        "base_color": "#e0e0fc",
+        "gleam_color": "#e0e0ff",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Luminous Blue"
+            }
+        ]
+    },
+    "177": {
+        "url": "https://api.boundlexx.app/api/v1/colors/177/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/177/blocks/",
+        "game_id": 177,
+        "base_color": "#cce6fc",
+        "gleam_color": "#c9e6ff",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Luminous Azure"
+            }
+        ]
+    },
+    "178": {
+        "url": "https://api.boundlexx.app/api/v1/colors/178/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/178/blocks/",
+        "game_id": 178,
+        "base_color": "#cde7ed",
+        "gleam_color": "#c7e8f0",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Cold Slate"
+            }
+        ]
+    },
+    "179": {
+        "url": "https://api.boundlexx.app/api/v1/colors/179/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/179/blocks/",
+        "game_id": 179,
+        "base_color": "#a9edfc",
+        "gleam_color": "#a1eeff",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Luminous Slate"
+            }
+        ]
+    },
+    "180": {
+        "url": "https://api.boundlexx.app/api/v1/colors/180/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/180/blocks/",
+        "game_id": 180,
+        "base_color": "#9dc4ce",
+        "gleam_color": "#92c6d2",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Cool Slate"
+            }
+        ]
+    },
+    "181": {
+        "url": "https://api.boundlexx.app/api/v1/colors/181/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/181/blocks/",
+        "game_id": 181,
+        "base_color": "#adc2be",
+        "gleam_color": "#a3c4be",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Weary Teal"
+            }
+        ]
+    },
+    "182": {
+        "url": "https://api.boundlexx.app/api/v1/colors/182/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/182/blocks/",
+        "game_id": 182,
+        "base_color": "#b6b6b6",
+        "gleam_color": "#b6b6b6",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Cool Grey"
+            }
+        ]
+    },
+    "183": {
+        "url": "https://api.boundlexx.app/api/v1/colors/183/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/183/blocks/",
+        "game_id": 183,
+        "base_color": "#cbbbab",
+        "gleam_color": "#d2baa0",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Weary Mustard"
+            }
+        ]
+    },
+    "184": {
+        "url": "https://api.boundlexx.app/api/v1/colors/184/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/184/blocks/",
+        "game_id": 184,
+        "base_color": "#dab798",
+        "gleam_color": "#e1b58c",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Cool Taupe"
+            }
+        ]
+    },
+    "185": {
+        "url": "https://api.boundlexx.app/api/v1/colors/185/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/185/blocks/",
+        "game_id": 185,
+        "base_color": "#dab880",
+        "gleam_color": "#deb772",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Stark Mustard"
+            }
+        ]
+    },
+    "186": {
+        "url": "https://api.boundlexx.app/api/v1/colors/186/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/186/blocks/",
+        "game_id": 186,
+        "base_color": "#c7bd96",
+        "gleam_color": "#cabd8a",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Cool Tan"
+            }
+        ]
+    },
+    "187": {
+        "url": "https://api.boundlexx.app/api/v1/colors/187/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/187/blocks/",
+        "game_id": 187,
+        "base_color": "#bebfab",
+        "gleam_color": "#bec0a0",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Weary Yellow"
+            }
+        ]
+    },
+    "188": {
+        "url": "https://api.boundlexx.app/api/v1/colors/188/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/188/blocks/",
+        "game_id": 188,
+        "base_color": "#b5c396",
+        "gleam_color": "#b3c48a",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Cool Lime"
+            }
+        ]
+    },
+    "189": {
+        "url": "https://api.boundlexx.app/api/v1/colors/189/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/189/blocks/",
+        "game_id": 189,
+        "base_color": "#a8c87f",
+        "gleam_color": "#a4ca70",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Stark Lime"
+            }
+        ]
+    },
+    "190": {
+        "url": "https://api.boundlexx.app/api/v1/colors/190/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/190/blocks/",
+        "game_id": 190,
+        "base_color": "#c1c17f",
+        "gleam_color": "#c2c270",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Stark Yellow"
+            }
+        ]
+    },
+    "191": {
+        "url": "https://api.boundlexx.app/api/v1/colors/191/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/191/blocks/",
+        "game_id": 191,
+        "base_color": "#e7e799",
+        "gleam_color": "#e8e888",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Crisp Yellow"
+            }
+        ]
+    },
+    "192": {
+        "url": "https://api.boundlexx.app/api/v1/colors/192/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/192/blocks/",
+        "game_id": 192,
+        "base_color": "#d6ed78",
+        "gleam_color": "#d4ee61",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Crisp Lime"
+            }
+        ]
+    },
+    "193": {
+        "url": "https://api.boundlexx.app/api/v1/colors/193/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/193/blocks/",
+        "game_id": 193,
+        "base_color": "#b5f648",
+        "gleam_color": "#b0f800",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Luminous Moss"
+            }
+        ]
+    },
+    "194": {
+        "url": "https://api.boundlexx.app/api/v1/colors/194/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/194/blocks/",
+        "game_id": 194,
+        "base_color": "#81fd81",
+        "gleam_color": "#74ff74",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Luminous Green"
+            }
+        ]
+    },
+    "195": {
+        "url": "https://api.boundlexx.app/api/v1/colors/195/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/195/blocks/",
+        "game_id": 195,
+        "base_color": "#aef3ae",
+        "gleam_color": "#a3f6a3",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Crisp Green"
+            }
+        ]
+    },
+    "196": {
+        "url": "https://api.boundlexx.app/api/v1/colors/196/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/196/blocks/",
+        "game_id": 196,
+        "base_color": "#d2ebb4",
+        "gleam_color": "#ceeda5",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Cold Lime"
+            }
+        ]
+    },
+    "197": {
+        "url": "https://api.boundlexx.app/api/v1/colors/197/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/197/blocks/",
+        "game_id": 197,
+        "base_color": "#bbeed5",
+        "gleam_color": "#aff1d1",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Cold Viridian"
+            }
+        ]
+    },
+    "198": {
+        "url": "https://api.boundlexx.app/api/v1/colors/198/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/198/blocks/",
+        "game_id": 198,
+        "base_color": "#a0f1e6",
+        "gleam_color": "#8ff4e7",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Cold Teal"
+            }
+        ]
+    },
+    "199": {
+        "url": "https://api.boundlexx.app/api/v1/colors/199/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/199/blocks/",
+        "game_id": 199,
+        "base_color": "#7ef8d9",
+        "gleam_color": "#67fbd8",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Crisp Teal"
+            }
+        ]
+    },
+    "200": {
+        "url": "https://api.boundlexx.app/api/v1/colors/200/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/200/blocks/",
+        "game_id": 200,
+        "base_color": "#62fcbf",
+        "gleam_color": "#42ffbb",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Luminous Viridian"
+            }
+        ]
+    },
+    "201": {
+        "url": "https://api.boundlexx.app/api/v1/colors/201/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/201/blocks/",
+        "game_id": 201,
+        "base_color": "#4ff9f9",
+        "gleam_color": "#00fbfb",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Luminous Turquoise"
+            }
+        ]
+    },
+    "202": {
+        "url": "https://api.boundlexx.app/api/v1/colors/202/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/202/blocks/",
+        "game_id": 202,
+        "base_color": "#33a9a9",
+        "gleam_color": "#01abab",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Vivid Turquoise"
+            }
+        ]
+    },
+    "203": {
+        "url": "https://api.boundlexx.app/api/v1/colors/203/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/203/blocks/",
+        "game_id": 203,
+        "base_color": "#6ca3a3",
+        "gleam_color": "#60a5a5",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Light Turquoise"
+            }
+        ]
+    },
+    "204": {
+        "url": "https://api.boundlexx.app/api/v1/colors/204/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/204/blocks/",
+        "game_id": 204,
+        "base_color": "#34a7bd",
+        "gleam_color": "#00a9c1",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Vivid Slate"
+            }
+        ]
+    },
+    "205": {
+        "url": "https://api.boundlexx.app/api/v1/colors/205/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/205/blocks/",
+        "game_id": 205,
+        "base_color": "#36a4d3",
+        "gleam_color": "#00a5d9",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Vivid Azure"
+            }
+        ]
+    },
+    "206": {
+        "url": "https://api.boundlexx.app/api/v1/colors/206/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/206/blocks/",
+        "game_id": 206,
+        "base_color": "#6fa0ba",
+        "gleam_color": "#64a1c0",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Light Azure"
+            }
+        ]
+    },
+    "207": {
+        "url": "https://api.boundlexx.app/api/v1/colors/207/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/207/blocks/",
+        "game_id": 207,
+        "base_color": "#819cbb",
+        "gleam_color": "#789dc4",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Pale Cerulean"
+            }
+        ]
+    },
+    "208": {
+        "url": "https://api.boundlexx.app/api/v1/colors/208/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/208/blocks/",
+        "game_id": 208,
+        "base_color": "#6d97f5",
+        "gleam_color": "#6497ff",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Vivid Cobalt"
+            }
+        ]
+    },
+    "209": {
+        "url": "https://api.boundlexx.app/api/v1/colors/209/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/209/blocks/",
+        "game_id": 209,
+        "base_color": "#399ef4",
+        "gleam_color": "#019ffe",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Vivid Cerulean"
+            }
+        ]
+    },
+    "210": {
+        "url": "https://api.boundlexx.app/api/v1/colors/210/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/210/blocks/",
+        "game_id": 210,
+        "base_color": "#2a7bc1",
+        "gleam_color": "#007cc9",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Cerulean"
+            }
+        ]
+    },
+    "211": {
+        "url": "https://api.boundlexx.app/api/v1/colors/211/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/211/blocks/",
+        "game_id": 211,
+        "base_color": "#287fa6",
+        "gleam_color": "#0080ab",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Azure"
+            }
+        ]
+    },
+    "212": {
+        "url": "https://api.boundlexx.app/api/v1/colors/212/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/212/blocks/",
+        "game_id": 212,
+        "base_color": "#278294",
+        "gleam_color": "#018397",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Slate"
+            }
+        ]
+    },
+    "213": {
+        "url": "https://api.boundlexx.app/api/v1/colors/213/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/213/blocks/",
+        "game_id": 213,
+        "base_color": "#258384",
+        "gleam_color": "#008485",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Turquoise"
+            }
+        ]
+    },
+    "214": {
+        "url": "https://api.boundlexx.app/api/v1/colors/214/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/214/blocks/",
+        "game_id": 214,
+        "base_color": "#32ab97",
+        "gleam_color": "#01ad97",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Vivid Teal"
+            }
+        ]
+    },
+    "215": {
+        "url": "https://api.boundlexx.app/api/v1/colors/215/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/215/blocks/",
+        "game_id": 215,
+        "base_color": "#69a68b",
+        "gleam_color": "#5da888",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Light Viridian"
+            }
+        ]
+    },
+    "216": {
+        "url": "https://api.boundlexx.app/api/v1/colors/216/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/216/blocks/",
+        "game_id": 216,
+        "base_color": "#30ad80",
+        "gleam_color": "#00af7d",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Vivid Viridian"
+            }
+        ]
+    },
+    "217": {
+        "url": "https://api.boundlexx.app/api/v1/colors/217/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/217/blocks/",
+        "game_id": 217,
+        "base_color": "#2faf60",
+        "gleam_color": "#00b158",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Vivid Mint"
+            }
+        ]
+    },
+    "218": {
+        "url": "https://api.boundlexx.app/api/v1/colors/218/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/218/blocks/",
+        "game_id": 218,
+        "base_color": "#2eb02e",
+        "gleam_color": "#01b201",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Vivid Green"
+            }
+        ]
+    },
+    "219": {
+        "url": "https://api.boundlexx.app/api/v1/colors/219/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/219/blocks/",
+        "game_id": 219,
+        "base_color": "#75a74f",
+        "gleam_color": "#70a93f",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Vivid Moss"
+            }
+        ]
+    },
+    "220": {
+        "url": "https://api.boundlexx.app/api/v1/colors/220/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/220/blocks/",
+        "game_id": 220,
+        "base_color": "#89a42e",
+        "gleam_color": "#87a500",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Vivid Lime"
+            }
+        ]
+    },
+    "221": {
+        "url": "https://api.boundlexx.app/api/v1/colors/221/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/221/blocks/",
+        "game_id": 221,
+        "base_color": "#9e9e2e",
+        "gleam_color": "#9e9e00",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Vivid Yellow"
+            }
+        ]
+    },
+    "222": {
+        "url": "https://api.boundlexx.app/api/v1/colors/222/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/222/blocks/",
+        "game_id": 222,
+        "base_color": "#bd932e",
+        "gleam_color": "#c09200",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Vivid Mustard"
+            }
+        ]
+    },
+    "223": {
+        "url": "https://api.boundlexx.app/api/v1/colors/223/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/223/blocks/",
+        "game_id": 223,
+        "base_color": "#fde17f",
+        "gleam_color": "#ffe172",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Luminous Tan"
+            }
+        ]
+    },
+    "224": {
+        "url": "https://api.boundlexx.app/api/v1/colors/224/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/224/blocks/",
+        "game_id": 224,
+        "base_color": "#f8e0ae",
+        "gleam_color": "#fbe0a6",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Crisp Tan"
+            }
+        ]
+    },
+    "225": {
+        "url": "https://api.boundlexx.app/api/v1/colors/225/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/225/blocks/",
+        "game_id": 225,
+        "base_color": "#eee1c8",
+        "gleam_color": "#f1e1c0",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Cold Tan"
+            }
+        ]
+    },
+    "226": {
+        "url": "https://api.boundlexx.app/api/v1/colors/226/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/226/blocks/",
+        "game_id": 226,
+        "base_color": "#fcddc5",
+        "gleam_color": "#ffdcc1",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Luminous Taupe"
+            }
+        ]
+    },
+    "227": {
+        "url": "https://api.boundlexx.app/api/v1/colors/227/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/227/blocks/",
+        "game_id": 227,
+        "base_color": "#fcdbdb",
+        "gleam_color": "#ffdada",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Luminous Red"
+            }
+        ]
+    },
+    "228": {
+        "url": "https://api.boundlexx.app/api/v1/colors/228/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/228/blocks/",
+        "game_id": 228,
+        "base_color": "#e2e2e2",
+        "gleam_color": "#e2e2e2",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "White"
+            }
+        ]
+    },
+    "229": {
+        "url": "https://api.boundlexx.app/api/v1/colors/229/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/229/blocks/",
+        "game_id": 229,
+        "base_color": "#aac0d6",
+        "gleam_color": "#a4c1dd",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Cool Azure"
+            }
+        ]
+    },
+    "230": {
+        "url": "https://api.boundlexx.app/api/v1/colors/230/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/230/blocks/",
+        "game_id": 230,
+        "base_color": "#9898ad",
+        "gleam_color": "#9797b7",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Ashen Blue"
+            }
+        ]
+    },
+    "231": {
+        "url": "https://api.boundlexx.app/api/v1/colors/231/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/231/blocks/",
+        "game_id": 231,
+        "base_color": "#757590",
+        "gleam_color": "#74749d",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Rust Blue"
+            }
+        ]
+    },
+    "232": {
+        "url": "https://api.boundlexx.app/api/v1/colors/232/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/232/blocks/",
+        "game_id": 232,
+        "base_color": "#647993",
+        "gleam_color": "#5d7a9a",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Stale Cerulean"
+            }
+        ]
+    },
+    "233": {
+        "url": "https://api.boundlexx.app/api/v1/colors/233/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/233/blocks/",
+        "game_id": 233,
+        "base_color": "#3070f0",
+        "gleam_color": "#036fff",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Cobalt"
+            }
+        ]
+    },
+    "234": {
+        "url": "https://api.boundlexx.app/api/v1/colors/234/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/234/blocks/",
+        "game_id": 234,
+        "base_color": "#224bc3",
+        "gleam_color": "#0048d1",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Deep Cobalt"
+            }
+        ]
+    },
+    "235": {
+        "url": "https://api.boundlexx.app/api/v1/colors/235/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/235/blocks/",
+        "game_id": 235,
+        "base_color": "#3737e8",
+        "gleam_color": "#2a2aff",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Deep Blue"
+            }
+        ]
+    },
+    "236": {
+        "url": "https://api.boundlexx.app/api/v1/colors/236/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/236/blocks/",
+        "game_id": 236,
+        "base_color": "#1919ac",
+        "gleam_color": "#0000c1",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Strong Blue"
+            }
+        ]
+    },
+    "237": {
+        "url": "https://api.boundlexx.app/api/v1/colors/237/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/237/blocks/",
+        "game_id": 237,
+        "base_color": "#142e8a",
+        "gleam_color": "#002c95",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Strong Cobalt"
+            }
+        ]
+    },
+    "238": {
+        "url": "https://api.boundlexx.app/api/v1/colors/238/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/238/blocks/",
+        "game_id": 238,
+        "base_color": "#113769",
+        "gleam_color": "#01376f",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Strong Cerulean"
+            }
+        ]
+    },
+    "239": {
+        "url": "https://api.boundlexx.app/api/v1/colors/239/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/239/blocks/",
+        "game_id": 239,
+        "base_color": "#0f3b54",
+        "gleam_color": "#013b57",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Strong Azure"
+            }
+        ]
+    },
+    "240": {
+        "url": "https://api.boundlexx.app/api/v1/colors/240/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/240/blocks/",
+        "game_id": 240,
+        "base_color": "#0e3d49",
+        "gleam_color": "#003e4b",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Strong Slate"
+            }
+        ]
+    },
+    "241": {
+        "url": "https://api.boundlexx.app/api/v1/colors/241/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/241/blocks/",
+        "game_id": 241,
+        "base_color": "#0d3e3e",
+        "gleam_color": "#003f3f",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Strong Turquoise"
+            }
+        ]
+    },
+    "242": {
+        "url": "https://api.boundlexx.app/api/v1/colors/242/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/242/blocks/",
+        "game_id": 242,
+        "base_color": "#0c402b",
+        "gleam_color": "#004129",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Strong Viridian"
+            }
+        ]
+    },
+    "243": {
+        "url": "https://api.boundlexx.app/api/v1/colors/243/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/243/blocks/",
+        "game_id": 243,
+        "base_color": "#032103",
+        "gleam_color": "#002100",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Shadow Green"
+            }
+        ]
+    },
+    "244": {
+        "url": "https://api.boundlexx.app/api/v1/colors/244/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/244/blocks/",
+        "game_id": 244,
+        "base_color": "#176246",
+        "gleam_color": "#006344",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Deep Viridian"
+            }
+        ]
+    },
+    "245": {
+        "url": "https://api.boundlexx.app/api/v1/colors/245/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/245/blocks/",
+        "game_id": 245,
+        "base_color": "#465a5a",
+        "gleam_color": "#405b5b",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Silk Turquoise"
+            }
+        ]
+    },
+    "246": {
+        "url": "https://api.boundlexx.app/api/v1/colors/246/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/246/blocks/",
+        "game_id": 246,
+        "base_color": "#333361",
+        "gleam_color": "#31316d",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Dark Blue"
+            }
+        ]
+    },
+    "247": {
+        "url": "https://api.boundlexx.app/api/v1/colors/247/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/247/blocks/",
+        "game_id": 247,
+        "base_color": "#161641",
+        "gleam_color": "#141449",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Night Blue"
+            }
+        ]
+    },
+    "248": {
+        "url": "https://api.boundlexx.app/api/v1/colors/248/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/248/blocks/",
+        "game_id": 248,
+        "base_color": "#090961",
+        "gleam_color": "#00006e",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Shadow Blue"
+            }
+        ]
+    },
+    "249": {
+        "url": "https://api.boundlexx.app/api/v1/colors/249/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/249/blocks/",
+        "game_id": 249,
+        "base_color": "#42247c",
+        "gleam_color": "#441d87",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Strong Lavender"
+            }
+        ]
+    },
+    "250": {
+        "url": "https://api.boundlexx.app/api/v1/colors/250/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/250/blocks/",
+        "game_id": 250,
+        "base_color": "#350535",
+        "gleam_color": "#380038",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Shadow Violet"
+            }
+        ]
+    },
+    "251": {
+        "url": "https://api.boundlexx.app/api/v1/colors/251/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/251/blocks/",
+        "game_id": 251,
+        "base_color": "#22172b",
+        "gleam_color": "#24152f",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Night Lilac"
+            }
+        ]
+    },
+    "252": {
+        "url": "https://api.boundlexx.app/api/v1/colors/252/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/252/blocks/",
+        "game_id": 252,
+        "base_color": "#592b0b",
+        "gleam_color": "#5b2a00",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Strong Orange"
+            }
+        ]
+    },
+    "253": {
+        "url": "https://api.boundlexx.app/api/v1/colors/253/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/253/blocks/",
+        "game_id": 253,
+        "base_color": "#874416",
+        "gleam_color": "#8b4200",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Deep Orange"
+            }
+        ]
+    },
+    "254": {
+        "url": "https://api.boundlexx.app/api/v1/colors/254/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/254/blocks/",
+        "game_id": 254,
+        "base_color": "#89422b",
+        "gleam_color": "#8e3f21",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Hot Orange"
+            }
+        ]
+    },
+    "255": {
+        "url": "https://api.boundlexx.app/api/v1/colors/255/",
+        "blocks_url": "https://api.boundlexx.app/api/v1/colors/255/blocks/",
+        "game_id": 255,
+        "base_color": "#e9e948",
+        "gleam_color": "#eaea00",
+        "localization": [
+            {
+                "lang": "english",
+                "name": "Luminous Yellow"
+            }
+        ]
+    }
+}
