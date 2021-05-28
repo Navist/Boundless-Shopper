@@ -132,7 +132,7 @@ async def getItemsData():
             results[itemName] = x
         print(data)
     with open('items/itemsData.json', 'w') as f:
-        json.dump(results, f, indent=4, default=str)me
+        json.dump(results, f, indent=4, default=str)
             
 
 def getItemData():
