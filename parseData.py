@@ -167,8 +167,4 @@ def comparePricing():
     with open('bestRoute.json', 'w') as f:
         json.dump(buyFromThese, f, indent=4, default=str)
 
-for x in writeIt:
-    with open(f"lookAtDicts/{x}.json", 'w') as f:
-        json.dump(eval(x), f, indent=4, default=str)
-
 comparePricing()
